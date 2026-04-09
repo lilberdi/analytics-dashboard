@@ -28,6 +28,7 @@
     "dotenv": "^17.4.1",
     "next": "^16.2.3",
     "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.67.0",
     "react": "^19.2.5",
     "react-chartjs-2": "^5.3.1",
     "react-dom": "^19.2.5"
