@@ -1,0 +1,27 @@
+{
+  "name": "analytics-dashboard",
+  "version": "1.0.0",
+  "description": "for AI Tools Specialist",
+  "main": "syncOrders.js",
+  "scripts": {
+    "sync": "node syncOrders.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilberdi/analytics-dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lilberdi/analytics-dashboard/issues"
+  },
+  "homepage": "https://github.com/lilberdi/analytics-dashboard#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.103.0",
+    "dotenv": "^17.4.1",
+    "node-fetch": "^3.3.2"
+  }
+}
